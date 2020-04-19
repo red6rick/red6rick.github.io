@@ -17,6 +17,10 @@ ssh -R 2222:localhost:22 me@192.168.1.211
 # on local machine
 ssh corp.user@localhost -p 2222
 
-# maybe? tunnel a proxy for web
+# tunnel a proxy for web
 ssh -D 8888 corp.user@localhost -p 2222
+
+# then, switch the network settings for proxy...
+# and walla!
+
 ```

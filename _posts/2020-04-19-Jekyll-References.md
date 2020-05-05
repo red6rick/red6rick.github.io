@@ -10,3 +10,5 @@ This is a bookmark list for Jekyll blogging things I found, but haven't had a ch
 * [blogging with org and github](https://acaird.github.io/computers/2013/05/24/blogging-with-org-and-git)
 * [jekyll](https://jekyllrb.com/docs/installation/)
 * [beautiful jekyll](https://github.com/red6rick/beautiful-jekyll)
+* [technical blog in jekyll](http://dashohoxha.fs.al/building-technical-blog-site-with-jekyll-and-emacs/)
+

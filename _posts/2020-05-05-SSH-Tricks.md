@@ -1,5 +1,5 @@
 
-----------
+```
 
 # on corp machine
 # local ssh directory that is writable
@@ -19,4 +19,4 @@ ssh corp.user@localhost -p 2222
 
 # maybe? tunnel a proxy for web
 ssh -D 8888 corp.user@localhost -p 2222
-----------
+```

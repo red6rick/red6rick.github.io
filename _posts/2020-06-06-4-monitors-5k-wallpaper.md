@@ -2,7 +2,7 @@
 layout: post
 title: 4 Monitors, 5K Wallpaper
 tags:
-date: 
+date: 2020-06-06 15:54:27 -0500
 ---
 I have a 4 monitor setup on my Hackintosh in my home office; two 1920x1200 monitors
 on top and two 2560x1440 monitors below. I typically use at least 4 virtual 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing Jekyll Helpers In Emacs
-tags:
+tags: [jekyll]
 date: 2020-06-06 10:41:39 -0500
 ---
 This is a test of the very lightweight Jekyll extension for

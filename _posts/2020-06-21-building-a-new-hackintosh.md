@@ -30,14 +30,14 @@ Hardware:
 
 5. Cooling. Standard, not planning to overclock (today)
    * [Intel standard fan](https://www.amazon.com/gp/product/B013U542QE]
+   * [Thermaltake](https://www.amazon.com/dp/B003WOL4UG/?tag=tonymacx86com-20)
 6. Case. A blank case. I don't want leds flashing at me all the time.
    * [Antec](https://www.amazon.com/gp/product/B07LBXP8KZ)
 7. Video card. I have a decent 570; do I want to buy a 580?
    * [Radeon RX 850](https://www.amazon.com/gp/product/B06Y66K3XD)
+   * [Sapphire RX 850](https://www.amazon.com/dp/B06ZZ6FMF8/?tag=tonymacx86com-20)
 8. Monitors. Hah!
 9. Keyboard, mouse, etc. Hah!
+10. NVMe, motherboard attached ssd
+   * [WD_BLACK](https://www.amazon.com/Black-SN750-NVMe-juego-interno/dp/B07TM6HQ3F/)
 
-## Processor
-
-
-* [i7=9700F](https://www.amazon.com/gp/product/B07S8DWXT3/)

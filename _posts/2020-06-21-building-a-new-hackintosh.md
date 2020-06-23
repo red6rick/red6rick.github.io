@@ -40,4 +40,6 @@ Hardware:
 9. Keyboard, mouse, etc. Hah!
 10. NVMe, motherboard attached ssd
    * [WD_BLACK](https://www.amazon.com/Black-SN750-NVMe-juego-interno/dp/B07TM6HQ3F/)
+---
+[install for this mb on tonymacx86](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/)
 

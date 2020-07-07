@@ -40,7 +40,7 @@ Hardware:
 
 ---
 * install emacs
-** https://emacsformacosx.com/emacs-builds/Emacs-26.3-universal.dmg
+  * https://emacsformacosx.com/emacs-builds/Emacs-26.3-universal.dmg
 * install xcode and its command line tools
 * install homebrew
   * /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"

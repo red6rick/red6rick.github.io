@@ -38,3 +38,16 @@ Hardware:
 ---
 [install for this mb on tonymacx86](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/)
 
+---
+* install emacs
+** https://emacsformacosx.com/emacs-builds/Emacs-26.3-universal.dmg
+* install xcode and its command line tools
+* install homebrew
+** /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+** brew install wget
+** brew install id3v2
+** brew install pianobar
+** brew install imagemagick
+** brew install iperf3
+** brew install frotz
+** brew install gawk

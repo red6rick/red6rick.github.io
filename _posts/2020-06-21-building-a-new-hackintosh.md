@@ -43,11 +43,12 @@ Hardware:
 ** https://emacsformacosx.com/emacs-builds/Emacs-26.3-universal.dmg
 * install xcode and its command line tools
 * install homebrew
-** /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-** brew install wget
-** brew install id3v2
-** brew install pianobar
-** brew install imagemagick
-** brew install iperf3
-** brew install frotz
-** brew install gawk
+  * /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  * brew install wget
+  * brew install id3v2
+  * brew install pianobar
+  * brew install imagemagick
+  * brew install iperf3
+  * brew install frotz
+  * brew install gawk
+  

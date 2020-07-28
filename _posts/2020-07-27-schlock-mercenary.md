@@ -18,6 +18,8 @@ until Howard starts writing again!!!!
 
 PHP. I know, I know... Whatcha gonna do?
 
+[schlock redirect](http://www.beautifulsawdust.com/schlock.php)
+
 ```
 <!DOCTYPE html>
 <html>
@@ -27,7 +29,7 @@ PHP. I know, I know... Whatcha gonna do?
 $d=date("Y")-20 . "-" . date("m") . "-" . date("d") ;
 $xx = "<a href=\"https://www.schlockmercenary.com/" . $d . "\">schlock</a>";
 $yy = "https://www.schlockmercenary.com/" . $d;
-header('Location: ' . $yy, true, 302);              // Use either 301 or 302
+header('Location: ' . $yy, true, 302);    // Use either 301 or 302
 exit(0);
 # echo $xx;
 ?>

@@ -26,7 +26,7 @@ Hardware:
 4. Power supply, a modular one like this.    It is possible to spend a lot more money, but nah...
    * [Rosewill](https://www.amazon.com/gp/product/B00PCLGZOC)
 5. Cooling. Standard, not planning to overclock (today)
-   * [Intel standard fan](https://www.amazon.com/gp/product/B013U542QE]
+   * [Intel standard fan](https://www.amazon.com/gp/product/B013U542QE)
 6. Case. A blank case. I don't want leds flashing at me all the time.
    * [Antec](https://www.amazon.com/gp/product/B07LBXP8KZ)
 7. Video card. I have a decent 570; do I want to buy a 580?

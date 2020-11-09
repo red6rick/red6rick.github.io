@@ -12,9 +12,7 @@ a bowden extruder instead of a direct extruder)
 Really good price, good features, easy assembly, and decent prints right
 out of the box.
 
-![bunny](/img/bunny.png)
-
-!<img src="/img/bunny.png" width="200" />
+<img src="/img/bunny.png" width="200" />
 
 However, and a pretty big one for me, was that the firmware in the printer
 was closed. This in spite of the fact that it is based on and even acknowledges

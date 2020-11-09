@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MKS Robin Nano -- First Steps
-tags:
+tags: Marlin "Robin Nano"
 date: 2020-11-09 10:57:50 -0600
 ---
 I bought a [Creativity Elf CoreXY](https://www.amazon.com/gp/product/B086X2989N) 3d printer. The stock photo is not quite what I have, but very close (mine has

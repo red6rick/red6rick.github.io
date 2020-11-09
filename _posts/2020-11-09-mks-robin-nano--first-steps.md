@@ -14,6 +14,8 @@ out of the box.
 
 ![bunny](/img/bunny.png)
 
+!<img src="/img/bunny.png" width="200" />
+
 However, and a pretty big one for me, was that the firmware in the printer
 was closed. This in spite of the fact that it is based on and even acknowledges
 the [Marlin](https://marlinfw.org/) project.

@@ -9,4 +9,4 @@ There are various stepper drivers for 3d printer, such as TMC2209, TMC2208, TMC2
 How are they different and how to decide?
 
 See a very good comparison table at:
-https://learn.watterott.com/silentstepstick/comparison/
+[watterott](https://learn.watterott.com/silentstepstick/comparison/)

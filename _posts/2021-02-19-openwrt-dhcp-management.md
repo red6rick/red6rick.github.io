@@ -4,7 +4,7 @@ title: OpenWRT DHCP Management
 tags:
 date: 2021-02-19 13:16:02 -0600
 ---
-I use an [openwrt]() router for my home system. I want control of ip assignments
+I use an [openwrt](https://openwrt.org/) router for my home system. I want control of ip assignments
 on my network, but I want the DHCP server running. OpenWRT makes this possible,
 but requires the /etc/hosts and /etc/ethers files to track each other.
 
@@ -62,7 +62,7 @@ exit
 002 00:11:32:D6:DD:AF nas
 003 d8:0d:17:4e:04:d0 router-sheshed
 004 b0:95:75:32:ff:8e router-mancave
-# # etc...t
+# # etc...            
 
 #END_DATA
 ~~~~
